@@ -52,6 +52,27 @@
 
 <br>
 
+[은평구 주민참여예산 (바로가기)](https://github.com/sms8884/evote)
+### 프로젝트 개요
+* 기 간 : 2016. 06 ~2017 . 03 (총 10개월)
+* 역 할 : 개발자
+* 업 무 : java Web 개발
+
+
+### 개발기술및 개발 환경
+* Tool: Eclipse , SourceTree , MySQL Workbench
+* ServerSide:jQuery, Ajax, JSON ,HTML , BootStrap , JSP
+* Server & ServerFramework : Tomcat7.0 & Spring3.0 
+* ETC : junit 
+
+
+### 프로젝트 설명 <br>
+
+
+자하스마트에서 SI  프로젝트로 진행했던<br>
+은평구 주민 참여 예산 시스템입니다<br>
+
+<br>
 
 
 
